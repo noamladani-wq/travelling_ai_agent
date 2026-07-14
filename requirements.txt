@@ -1,0 +1,9 @@
+# Install some different Python dependencies and get access to some API keys
+langchain
+wikipedia
+langchain-community 
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
