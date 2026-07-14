@@ -25,7 +25,7 @@ Itinerary:
 
 1. Pull the flight details out of whatever you typed (structured output, no manual JSON parsing)
 2. Get real coordinates, then hit the Open-Meteo API for the actual current temperature
-3. Check `kb.json` for safety notes on the destination — if it's not in there, fall back to the model just knowing things
+3. Check `kb.json` for safety notes on the destination. If it's not in there, fall back to the model just knowing things
 4. Generate the itinerary
 
 ## Running it
